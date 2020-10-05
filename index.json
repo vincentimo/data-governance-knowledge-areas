@@ -1,0 +1,196 @@
+{
+  "data_governance_knowledge_areas": [
+    {
+      "no": 1,
+      "long_name": "Data Governance and Stewardship",
+      "short_name": "Data Governance",
+      "summary": "Provides direction and oversight for data management by establishing a system of decision rights over data that accounts for the needs of the enterprise.",
+      "definition": "The exercise of authority, control, and shared decision-making (planning, monitoring, and enforcement) over the management of data assets.",
+      "goals": [
+        {
+          "no": 1,
+          "name": "Enable an organization to manage its data as an asset."
+        },
+        {
+          "no": 2,
+          "name": "Define, approve, communicate, and implement principles, policies, procedures, metrics, tools, and responsibilities for data management."
+        },
+        {
+          "no": 3,
+          "name": "Monitor and guide policy compliance, data usage, and management activities."
+        }
+      ],
+      "inputs": [
+        "Business Strategies & Goals",
+        "IT Strategies & Goals",
+        "Data Management and Data Strategies",
+        "Organization Policies & Standards",
+        "Business Culture Assessment",
+        "Data Maturity Assessment",
+        "IT Practices",
+        "Regulatory Requirements"
+      ],
+      "suppliers": [
+        "Business Executives",
+        "Data Stewards",
+        "Data Owners",
+        "Subject Matter Experts",
+        "Maturity Assessors",
+        "Regulators",
+        "Enterprise Architects"
+      ],
+      "activities": [
+        {
+          "no": 1,
+          "name": "Define Data Governance for the Organization",
+          "types": [
+            "Planning"
+          ],
+          "sub_activities": [
+            {
+              "no": 1,
+              "name": "Develop Data Governance Strategy"
+            },
+            {
+              "no": 2,
+              "name": "Perform Readiness Assessment"
+            },
+            {
+              "no": 3,
+              "name": "Perform Discovery and Business Alignment"
+            },
+            {
+              "no": 4,
+              "name": "Develop Organizational Touchpoints"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Define the Data Governance Strategy",
+          "types": [
+            "Planning"
+          ],
+          "sub_activities": [
+            {
+              "no": 1,
+              "name": "Define the Data Governance Operating Framework"
+            },
+            {
+              "no": 2,
+              "name": "Develop Goals, Principles, and Policies"
+            },
+            {
+              "no": 3,
+              "name": "Underwrite Data Management Projects"
+            },
+            {
+              "no": 4,
+              "name": "Engage Change Management"
+            },
+            {
+              "no": 5,
+              "name": "Engage in Issue Management"
+            },
+            {
+              "no": 6,
+              "name": "Assess Regulatory Compliance Requirements"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Implement Data Governance",
+          "types": [
+            "operations"
+          ],
+          "sub_activities": [
+            {
+              "no": 1,
+              "name": "Sponsor Data Standards and Procedures"
+            },
+            {
+              "no": 2,
+              "name": "Develop a Business Glossary"
+            },
+            {
+              "no": 3,
+              "name": "Co-ordinate with Architecture Groups"
+            },
+            {
+              "no": 4,
+              "name": "Sponsor Data Asset Valuation"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "name": "Embed Data Governance",
+          "types": [
+            "control",
+            "operations"
+          ]
+        }
+      ],
+      "participants": [
+        "Steering Committees",
+        "CIO",
+        "CDO / Chief Data Stewards",
+        "Coordinating Data Stewards",
+        "Business Data Stewards",
+        "Data Governance Bodies",
+        "Compliance Team",
+        "DM Executives",
+        "Change Managers",
+        "Enterprise Data Architects",
+        "Project Management Office",
+        "Governance Bodies",
+        "Audit",
+        "Data Professionals"
+      ],
+      "deliverables": [
+        "Data Governance Strategy",
+        "Data Strategy",
+        "Business / Data Governance Strategy Roadmap",
+        "Data Principles, Data Governance Policies, Processes",
+        "Operating Framework",
+        "Roadmap and Implementation Strategy",
+        "Operations Plan",
+        "Business Glossary",
+        "Data Governance Scorecard",
+        "Data Governance Website",
+        "Communications Plan",
+        "Recognized Data Value",
+        "Maturing Data Management Practices"
+      ],
+      "consumers": [
+        "Data Governance Bodies",
+        "Project Managers",
+        "Compliance Team",
+        "DM Communities of Interest",
+        "DM Team",
+        "Business Management",
+        "Architecture Groups",
+        "Partner Organizations"
+      ],
+      "techniques": [
+        "Concise Messaging",
+        "Contact List",
+        "Logo"
+      ],
+      "tools": [
+        "Websites",
+        "Business Glossary Tools",
+        "Workflow Tools",
+        "Document Management Tools",
+        "Data Governance Scorecards"
+      ],
+      "metrics": [
+        "Compliance to regulatory and internal data policies",
+        "Value",
+        "Effectiveness",
+        "Sustainability"
+      ]
+    }
+  ]
+}
